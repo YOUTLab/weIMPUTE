@@ -1,5 +1,4 @@
-# weIMPUTE
-weIMPUTE: A User-Friendly Web-Based Genotype Imputation Platform
+# weIMPUTE: A User-Friendly Web-Based Genotype Imputation Platform
 **A web-based imputation GUI, weIMPUTE, which supports multiple software including SHAPEIT, Eagle2, Minimac4,Beagle5, and IMPUTE2 for genotype phasing and imputation.**
 
 <img src="logo.png" alt="weIMPUTE" style="zoom: 50%;" />
