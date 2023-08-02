@@ -62,6 +62,9 @@ admin
 
 admin123
 
+**Attention! This example webpage is for demonstration purposes only and is intended solely for testing with small files. You can find the test file at the following link: DemoData/DemoFile. For testing with larger files, please deploy it to a high-performance server and then use it.** 
+
+
 
 ## Documentation
 
