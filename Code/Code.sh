@@ -26,6 +26,7 @@ eagleMAP="/date/genetic_map_hg38_withX.txt.gz"
 shapeitURL="/home/lizhuo/human/soft/shapeit.v2.904.3.10.0-693.11.6.el7.x86_64/bin/shapeit"
 shapeitMAP="/home/lizhuo/human/soft"
 
+
 beagleURL="/home/lizhuo/human/soft/beagle.28Jun21.220.jar"
 beagleMAP="/date/plink.all.GRCh38.map"
 
