@@ -26,8 +26,6 @@ Genotype imputation is a crucial step before genome-wide association studies (GW
 
 ## Deploy  
 
-**[back to top](#contents)** 
-
 ### Download
 
 After the successful installation of Docker, Download the suanfa_v6.tar file from 
@@ -76,6 +74,18 @@ sudo ufw enable
 Now, ports 9083 and 9085 have been added to the Ubuntu firewall rules and are allowed through the firewall.
 
 Run the **[DeployonUbuntu.sh](https://github.com/YOUTLab/weIMPUTE/blob/main/DeployonUbuntu.sh)** command.
+
+Save the file 'DeployonUbuntu.sh' in the same folder as 'suanfa.txt,' then change the execute permission of 'DeployonUbuntu.sh' using the command:
+
+```
+sudo chmod 774 DeployonUbuntu.sh
+```
+
+After that, execute it using the following command.
+
+```
+./DeployonUbuntu.sh
+```
 
 It may take several minutes depending on your internet connection and computer resources. Then, your imputation server instance is ready and you are able to access it on.
 
