@@ -75,7 +75,7 @@ sudo ufw enable
 
 Now, ports 9083 and 9085 have been added to the Ubuntu firewall rules and are allowed through the firewall.
 
-Run the **qd.sh** command.
+Run the **[DeployonUbuntu.sh](https://github.com/YOUTLab/weIMPUTE/blob/main/DeployonUbuntu.sh)** command.
 
 It may take several minutes depending on your internet connection and computer resources. Then, your imputation server instance is ready and you are able to access it on.
 
@@ -125,4 +125,4 @@ admin123
 
 ## Documentation
 
-For specific usage instructions, please refer to [README.pdf](README.pdf).
+For specific usage instructions, please refer to [USAGE_GUIDE.pdf](USAGE_GUIDE.pdf).
