@@ -26,10 +26,25 @@ Genotype imputation is a crucial step before genome-wide association studies (GW
 
 ## Deploy  
 
+**[back to top](#contents)** 
+
+### Download
 
 After the successful installation of Docker, Download the suanfa_v6.tar file from 
 
 http://144.34.160.128:82/suanfa_v6.tar
+
+### Deploy weIMPUTE on CentOS
+
+To get started with weIMPUTE on CentOS, make sure your firewall allows ports **9083** and **9085** to be open. You can follow these steps:
+
+```
+sudo firewall-cmd --permanent --add-port=9083/tcp
+sudo firewall-cmd --permanent --add-port=9085/tcp
+sudo firewall-cmd --reload
+```
+
+Now, ports 9083 and 9085 have been added to the CentOS firewall rules and are allowed through the firewall.
 
 Run the commands as follow:
 
@@ -48,6 +63,48 @@ http://IP:9085
 
 IP refers to the IP address of your local computer where weIMPUTE is installed.
 
+### Deploy weIMPUTE on Ubuntu
+
+To get started with weIMPUTE on Ubuntu, make sure your firewall allows ports **9083** and **9085** to be open. You can follow these steps:
+
+```
+sudo ufw allow 9083/tcp
+sudo ufw allow 9085/tcp
+sudo ufw enable
+```
+
+Now, ports 9083 and 9085 have been added to the Ubuntu firewall rules and are allowed through the firewall.
+
+Run the **qd.sh** command.
+
+It may take several minutes depending on your internet connection and computer resources. Then, your imputation server instance is ready and you are able to access it on.
+
+http://IP:9083 
+
+and
+
+http://IP:9085
+
+IP refers to the IP address of your local computer where weIMPUTE is installed.
+
+### Deploy weIMPUTE on Windows
+
+Ensure that Docker is installed correctly on Windows, and either disable the firewall or open ports 9083 and 9085.
+
+Run the commands as follow:
+
+```
+docker load -i suanfa_v6.tar
+docker run -d --privileged -p 9083:9083 -p 9085:9085 --net=bridge suanfa:v6
+```
+
+It may take several minutes depending on your internet connection and computer resources. Then, your imputation server instance is ready and you are able to access it on.
+
+http://localhost:9083 
+
+and
+
+http://localhost:9085
 ## Example Website
 
 If you deploy correctly, the local service should match the example website URL.
