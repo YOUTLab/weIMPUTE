@@ -139,7 +139,7 @@ For specific usage instructions, please refer to [USAGE_GUIDE.pdf](USAGE_GUIDE.p
 
 
 ## Quick Start
-video:
+Operation Video：
 
 https://github.com/YOUTLab/weIMPUTE/assets/141199195/ac6898c9-22a8-4228-8216-54b1fcc22a2e
 
