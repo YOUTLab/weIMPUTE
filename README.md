@@ -136,3 +136,8 @@ admin123
 ## Documentation
 
 For specific usage instructions, please refer to [USAGE_GUIDE.pdf](USAGE_GUIDE.pdf).
+
+
+## Quick Start
+video:
+https://github.com/YOUTLab/weIMPUTE/blob/main/Quick%20start/quickstart7.7.mp4
