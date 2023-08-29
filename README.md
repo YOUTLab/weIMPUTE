@@ -140,4 +140,6 @@ For specific usage instructions, please refer to [USAGE_GUIDE.pdf](USAGE_GUIDE.p
 
 ## Quick Start
 video:
-https://github.com/YOUTLab/weIMPUTE/assets/141199195/df5b6cb3-dac0-4fef-a1bd-259a08361d41
+https://github.com/YOUTLab/weIMPUTE/assets/141199195/5ca59c74-baf3-4267-9198-b11bc84ff5ef
+
+
