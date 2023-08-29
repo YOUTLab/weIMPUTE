@@ -140,8 +140,8 @@ For specific usage instructions, please refer to [USAGE_GUIDE.pdf](USAGE_GUIDE.p
 
 ## Quick Start
 video:
-https://github-production-user-asset-6210df.s3.amazonaws.com/141199195/263944663-5ca59c74-baf3-4267-9198-b11bc84ff5ef.mp4
 
+https://github.com/YOUTLab/weIMPUTE/assets/141199195/ac6898c9-22a8-4228-8216-54b1fcc22a2e
 
 
 
