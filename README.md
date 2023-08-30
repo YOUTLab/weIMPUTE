@@ -73,6 +73,11 @@ sudo ufw enable
 
 Now, ports 9083 and 9085 have been added to the Ubuntu firewall rules and are allowed through the firewall.
 
+```
+sudo docker load -i suanfa_v6.tar
+sudo docker run -d --privileged --net=host --restart=always suanfa:v6
+```
+
 Run the **[DeployonUbuntu.sh](https://github.com/YOUTLab/weIMPUTE/blob/main/DeployonUbuntu.sh)** command.
 
 Save the file 'DeployonUbuntu.sh' in the same folder as 'suanfa.txt,' then change the execute permission of 'DeployonUbuntu.sh' using the command:
