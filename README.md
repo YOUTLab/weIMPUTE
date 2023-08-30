@@ -84,7 +84,7 @@ sudo chmod 774 DeployonUbuntu.sh
 After that, execute it using the following command.
 
 ```
-./DeployonUbuntu.sh
+sudo sh DeployonUbuntu.sh
 ```
 
 It may take several minutes depending on your internet connection and computer resources. Then, your imputation server instance is ready and you are able to access it on.
