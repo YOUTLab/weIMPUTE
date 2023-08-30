@@ -1,8 +1,5 @@
 #!/bin/bash
 
-sudo docker load -i suanfa_v6.tar
-sudo docker run -d --privileged --net=host suanfa:v6
-
 ##get the ID of the current Docker
 CONTAINER_ID=$(sudo docker ps -a | grep "suanfa:v6" | awk '{print $1}' | sed -n '1p')
 
