@@ -47,8 +47,8 @@ Now, ports 9083 and 9085 have been added to the CentOS firewall rules and are al
 Run the commands as follow:
 
 ```
-docker load -i suanfa_v6.tar
-docker run -d --privileged --net=host suanfa:v6
+sudo docker load -i suanfa_v6.tar
+sudo docker run -d --privileged --net=host --restart=always suanfa:v6
 ```
 
 It may take several minutes depending on your internet connection and computer resources. Then, your imputation server instance is ready and you are able to access it on.
@@ -131,17 +131,18 @@ admin123
 
 **Attention! This example webpage is for demonstration purposes only and is intended solely for testing with small files. You can find the test file at the following link: DemoData/DemoFile. For testing with larger files, please deploy it to a high-performance server and then use it.** 
 
+## Quick Start
 
+Operation Video：
+
+https://github.com/YOUTLab/weIMPUTE/assets/141199195/ac6898c9-22a8-4228-8216-54b1fcc22a2e
 
 ## Documentation
 
 For specific usage instructions, please refer to [USAGE_GUIDE.pdf](USAGE_GUIDE.pdf).
 
 
-## Quick Start
-Operation Video：
 
-https://github.com/YOUTLab/weIMPUTE/assets/141199195/ac6898c9-22a8-4228-8216-54b1fcc22a2e
 
 
 
