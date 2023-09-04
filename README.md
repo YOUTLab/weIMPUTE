@@ -41,7 +41,7 @@ Password: admin123
 
 ## Quick Start
 
-Please refer to **Quick Start.pdf** for quick start operational instructions for the demo file imputation service.
+Please refer to **[Quick Start.pdf](Quick Start.pdf)**for quick start operational instructions for the demo file imputation service.
 
 Operation Video：
 
@@ -73,4 +73,4 @@ Administrators can perform user management and server management. Please refer t
 
 ## Documentation
 
-For specific usage instructions, please refer to [USAGE_GUIDE.pdf](USAGE_GUIDE.pdf).
+For specific usage instructions, please refer to **[USAGE_GUIDE.pdf](USAGE_GUIDE.pdf)**.
