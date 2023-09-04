@@ -41,7 +41,7 @@ Password: admin123
 
 ## Quick Start
 
-Please refer to [[USAGE_GUIDE.pdf](USAGE_GUIDE.pdf)](https://github.com/YOUTLab/weIMPUTE/blob/main/Quick%20Start.pdf) for quick start operational instructions for the demo file imputation service.
+Please refer to [[Quick Start.pdf](Quick Start.pdf)](https://github.com/YOUTLab/weIMPUTE/blob/main/Quick%20Start.pdf) for quick start operational instructions for the demo file imputation service.
 
 Operation Video：
 
