@@ -73,4 +73,4 @@ Administrators can perform user management and server management. Please refer t
 
 ## Documentation
 
-For specific usage instructions, please refer to **[USAGE_GUIDE.pdf](USAGE_GUIDE.pdf)**.
+For specific usage instructions, please refer to **[USAGE_GUIDE.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/USAGE_GUIDE.pdf)**.
