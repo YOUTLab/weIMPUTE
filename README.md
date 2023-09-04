@@ -41,7 +41,7 @@ Password: admin123
 
 ## Quick Start
 
-Please refer to [Quick Start.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/Quick%20Start.pdf) for quick start operational instructions for the demo file imputation service.
+Please refer to **[Quick Start.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/Quick%20Start.pdf)** for quick start operational instructions for the demo file imputation service.
 
 Operation Video：
 
@@ -53,7 +53,7 @@ https://github.com/YOUTLab/weIMPUTE/assets/141199195/ac6898c9-22a8-4228-8216-54b
 
 You can install and deploy weIMPUTE on your own server.
 
-For detailed local installation and deployment steps, please refer to **Local Installation.pdf.**
+For detailed local installation and deployment steps, please refer to **[Local Installation.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/Local%20Installation.pdf).**
 
 **It is recommended to use CentOS 7 operating system.**
 
@@ -61,13 +61,13 @@ For detailed local installation and deployment steps, please refer to **Local In
 
 ## Data Preparation
 
-If you wish to input a file other than the one provided, you will need to prepare the relevant files beforehand. Please refer to the **Data Preparation.pdf** document for further instructions.
+If you wish to input a file other than the one provided, you will need to prepare the relevant files beforehand. Please refer to the **[Data Preparation.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/Data%20Preparation.pdf)** document for further instructions.
 
 
 
 ## Back-end Management
 
-Administrators can perform user management and server management. Please refer to **Back-end Management.pdf** for details.
+Administrators can perform user management and server management. Please refer to **[Back-end Management.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/Back-end%20Management.pdf)** for details.
 
 
 
