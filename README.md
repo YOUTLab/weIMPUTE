@@ -61,7 +61,7 @@ For detailed local installation and deployment steps, please refer to **[Local I
 
 ## Data Preparation
 
-If you would like to input a file other than the one provided, you will need to prepare the relevant files beforehand. Please refer to the **[Data Preparation.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/Data%20Preparation.pdf)** document for further instructions.
+If you would like to input a file other than the one provided, you will need to prepare the relevant files beforehand. Please refer to the **[Data Preparation.pdf](Data%20Preparation.pdf)** document for further instructions.
 
 
 
