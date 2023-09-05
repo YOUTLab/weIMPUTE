@@ -67,10 +67,10 @@ If you would like to input a file other than the one provided, you will need to 
 
 ## Back-end Management
 
-Administrators can perform user management and server management. Please refer to **[Back-end Management.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/Back-end%20Management.pdf)** for details.
+Administrators can perform user management and server management. Please refer to **[Back-end Management.pdf](Back-end%20Management.pdf)** for details.
 
 
 
 ## Documentation
 
-For specific usage instructions, please refer to **[USAGE_GUIDE.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/USAGE_GUIDE.pdf)**.
+For specific usage instructions, please refer to **[USAGE_GUIDE.pdf](USAGE_GUIDE.pdf)**.
