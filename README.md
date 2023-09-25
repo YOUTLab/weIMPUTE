@@ -23,11 +23,11 @@ Genotype imputation is a crucial step before genome-wide association studies (GW
 
 If you deploy correctly, the local service should match the example website URL.
 
-Front-end service server: http://localhost:9083. 
+Front-end service server: http://144.34.160.128:80. 
 
 and
 
-Back-end Management server: http://localhost:9085.
+Back-end Management server: http://144.34.160.128:81.
 
 Enter the verification code and login as admin with the default admin password：
 
