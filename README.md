@@ -15,7 +15,7 @@ Genotype imputation is a crucial step before genome-wide association studies (GW
 
 ## Contact:
 
-> E-mail: tangyou@jlnku.edu.cn
+> E-mail: tangyou9000@163.com
 
 
 
@@ -53,9 +53,48 @@ https://github.com/YOUTLab/weIMPUTE/assets/141199195/ac6898c9-22a8-4228-8216-54b
 
 You can install and deploy weIMPUTE on your own server.
 
+To quickly set up **weIMPUTE**, you can use the provided installation script. This will automate most of the installation steps.
+
+1. **Download the Installation Script**
+
+   Download the installation script from the following URL:
+
+   [install_weIMPUTE.sh](https://github.com/YOUTLab/weIMPUTE/blob/main/install_weIMPUTE.sh)
+
+2. **Run the Installation Script**
+
+   After downloading the script, run the following commands in your terminal to make it executable and execute it:
+
+   ```
+   chmod +x install_weIMPUTE.sh
+   sudo ./install_weIMPUTE.sh
+   ```
+
+   The script will automatically:
+
+   - Configure the firewall (open necessary ports)
+   - Download and load the Docker image
+   - Start the Docker container
+   - Set up weIMPUTE
+
+   This installation method may take a few minutes depending on your internet speed and system performance.
+
+   
+
+   Then, your imputation server instance is ready and you can access it through the following address.
+
+   Front-end service server: http://IP:9083. 
+
+   and
+
+   Back-end Management server: http://IP:9085.
+
+   IP refers to the IP address of your local computer where weIMPUTE is installed.
+
+
 For detailed local installation and deployment steps, please refer to **[Local Installation.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/Local%20Installation.pdf).**
 
-**It is recommended to use CentOS 7 operating system.**
+**It is recommended to use LINUX operating system.**
 
 
 
