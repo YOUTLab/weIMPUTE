@@ -9,7 +9,7 @@ Genotype imputation is a crucial step before genome-wide association studies (GW
 
 ## Authors:
 
-> You Tang and Meng Huang
+> You Tang
 
 
 
