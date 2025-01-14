@@ -37,6 +37,9 @@ Password: admin123
 
 **Attention! This example webpage is for demonstration purposes only and is intended solely for testing with small files. You can find the test file at the following link: DemoData/DemoFile. For testing with larger files, please deploy weIMPUTE with a high-performance server before using the imputation service.** 
 
+Format Conversion and Quality Control Interface: http://144.34.160.128:8081/. 
+
+Genome-Wide Association Study (GWAS) Interface: http://144.34.160.128:8080/. 
 
 
 ## Quick Start
