@@ -114,11 +114,13 @@ Administrators can perform user management and server management. Please refer t
 
 ## Format Conversion and Quality Control
 
-
+The weIMPUTE_FORMAT Conversion Tool is designed to facilitate the conversion of genomic data from various formats (e.g., PLINK, Hapmap) to the Variant Call Format (VCF), which is the standard input format for weIMPUTE. This tool also supports flexible quality control (QC) measures, such as minor allele frequency (MAF) filtering and Hardy-Weinberg equilibrium (HWE) checks. With this tool, researchers working with different genomic data formats can seamlessly integrate their datasets into the weIMPUTE pipeline for genotype imputation, regardless of their initial format.
+Please refer to **([[weIMPUTE_FORMAT_Conversion/weIMPUTE%FORMAT%Conversion.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/weIMPUTE_GWAS/weIMPUTE_GWAS.pdf)](https://github.com/YOUTLab/weIMPUTE/blob/main/weIMPUTE_FORMAT%20Conversion%20Tool/weIMPUTE_FORMAT_Conversion.pdf))** for details.
 
 ## Genome-Wide Association Study (GWAS)
 
-The weIMPUTE_GWAS tool is used to configure and manage GWAS (Genome-Wide Association Studies) tools such as GAPIT, allowing users to upload files, set parameters, start GWAS analysis, and visualize the results via a graphical interface. It is integrated with the weIMPUTE and weIMPUTE_GWAS platforms to enhance the user's workflow. Please refer to **[weIMPUTE_FORMAT_Conversion.pdf](weIMPUTE_FORMAT_Conversion/weIMPUTE%FORMAT%Conversion.pdf)** for details.
+The weIMPUTE_GWAS tool is used to configure and manage GWAS (Genome-Wide Association Studies) tools such as GAPIT, allowing users to upload files, set parameters, start GWAS analysis, and visualize the results via a graphical interface. It is integrated with the weIMPUTE and weIMPUTE_GWAS platforms to enhance the user's workflow. 
+Please refer to **([weIMPUTE_FORMAT_Conversion/weIMPUTE%FORMAT%Conversion.pdf](https://github.com/YOUTLab/weIMPUTE/blob/main/weIMPUTE_GWAS/weIMPUTE_GWAS.pdf))** for details.
 
 ## Documentation
 
