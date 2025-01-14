@@ -112,6 +112,13 @@ If you would like to input a file other than the one provided, you will need to 
 Administrators can perform user management and server management. Please refer to **[Back-end Management.pdf](Back-end%20Management.pdf)** for details.
 
 
+## Format Conversion and Quality Control
+
+
+
+## Genome-Wide Association Study (GWAS)
+
+The weIMPUTE_GWAS tool is used to configure and manage GWAS (Genome-Wide Association Studies) tools such as GAPIT, allowing users to upload files, set parameters, start GWAS analysis, and visualize the results via a graphical interface. It is integrated with the weIMPUTE and weIMPUTE_GWAS platforms to enhance the user's workflow. Please refer to **[weIMPUTE_FORMAT_Conversion.pdf](weIMPUTE_FORMAT_Conversion/weIMPUTE%FORMAT%Conversion.pdf)** for details.
 
 ## Documentation
 
